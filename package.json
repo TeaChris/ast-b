@@ -1,0 +1,13 @@
+{
+      "name": "ast",
+      "version": "1.0.0",
+      "description": "scheduling orchestration layer — from first client click to post-appointment review request.",
+      "author": "Boluwatife Olasunkanmi <olasunkanmiboluwatife110@gmail.com>",
+      "keywords": [],
+      "license": "ISC",
+      "main": "index.js",
+      "scripts": {
+            "start": "./bin/app",
+            "test": "echo \"Error: no test specified\" && exit 1"
+      }
+}
