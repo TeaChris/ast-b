@@ -5,7 +5,7 @@
       "author": "Boluwatife Olasunkanmi <olasunkanmiboluwatife110@gmail.com>",
       "keywords": [],
       "license": "ISC",
-      "main": "index.js",
+      "main": "build/server.js",
       "scripts": {
             "test": "echo \"Error: no test specified\" && exit 1",
             "dev": "ts-node-dev --respawn --transpile-only --project tsconfig.json --require tsconfig-paths/register src/server.ts",
